@@ -1,0 +1,29 @@
+{
+    "total_profit": 4.496180840000013,
+    "positions": {
+        "JASMYUSDT": {
+            "symbol": "JASMYUSDT",
+            "pos": 8611.9,
+            "avg_price": 0.016256819052706137,
+            "last_entry_price": 0.0162,
+            "current_increase_pos_count": 4,
+            "profit_max_price": 0.0165
+        },
+        "PEOPLEUSDT": {
+            "symbol": "PEOPLEUSDT",
+            "pos": 2514.7,
+            "avg_price": 0.055671241102318365,
+            "last_entry_price": 0.0556,
+            "current_increase_pos_count": 4,
+            "profit_max_price": 0.0562
+        },
+        "MBLUSDT": {
+            "symbol": "MBLUSDT",
+            "pos": 10440.0,
+            "avg_price": 0.013407699233716475,
+            "last_entry_price": 0.013397,
+            "current_increase_pos_count": 4,
+            "profit_max_price": 0.013531
+        }
+    }
+}
