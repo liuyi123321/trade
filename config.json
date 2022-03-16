@@ -1,7 +1,7 @@
 {
   "platform": "binance_spot",
-  "api_key": "Ilq9DTQDJFV4SkH6x7TW4pnrNHVvB6OaHyqYlOOVB2IsULfr3zlG3f4yIwk6Defd",
-  "api_secret": "96dklxVWLuykfBY71hj9yyQqQzgnEveYmiAFB6rTZCnMuXxG3ASjo6FVe3da5grj",
+  "api_key": "",
+  "api_secret": "",
   "max_pairs": 4,
   "pump_pct": 0.01,
   "pump_pct_4h": 0.04,
